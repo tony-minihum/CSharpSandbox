@@ -10,6 +10,7 @@ namespace CSharpSandbox
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello CSharp.");
         }
     }
 }
