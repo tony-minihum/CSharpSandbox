@@ -36,6 +36,9 @@ namespace StructList
             {
                 Console.WriteLine(item.ToString());
             }
+
+            Console.WriteLine("Press any key...");
+            Console.ReadKey();
         }
     }
 }
